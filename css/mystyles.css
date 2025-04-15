@@ -1,0 +1,101 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/a1/79/f6/a179f6d0a3c962b830d45453ad07e4ae.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    align-items: center;
+    flex-direction: column;
+}
+
+.tableaustyle{
+    width: 100% !important;
+    display: block;
+    margin:auto;
+}
+li{
+    color: rgb(103, 9, 64);
+}
+
+img{
+    display: block;
+    border: solid rgb(98, 0, 62) 3px;
+    padding: 4px;
+    margin: auto;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 40%;
+}
+
+h1{
+    background-image: url(https://i.pinimg.com/474x/8f/18/b1/8f18b1fb56359a1169309b0540cd4778.jpg); 
+        color:rgb(9, 11, 103);
+        font-size: xx-large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+
+}
+
+.video{
+ margin-left: auto;
+ margin-right: auto;
+ display: block;
+ padding: 40px; 
+}
+
+.color{
+    margin-left: 100px;
+    margin-right: auto;
+    display: center;
+    padding: 40px; 
+   }
+
+footer{
+    background-image: url(https://i.pinimg.com/474x/8f/18/b1/8f18b1fb56359a1169309b0540cd4778.jpg); 
+    color:rgb(9, 11, 103);
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.test{
+    background-image: url(https://i.pinimg.com/564x/89/40/58/89405842b945ba0dc0a25480d26f0724.jpg);
+    margin-left: 0;
+    margin-right: 0;
+    justify-content: center;
+
+
+}
+
+.newyork{
+  
+        width: 70%;
+        position: top;
+        background-repeat: space;
+        margin-left: auto;
+        margin-right: auto;
+        padding-block: middle;
+        background-size: cover; 
+}
+
+h3{
+    text-align: center;
+}
+
+.try{
+   text-align: center;
+}
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; /* Allow items to wrap to the next line if the space is limited */
+}
+
+.tableauPlaceholder {
+    /* Add any specific styling for Tableau container if needed */
+}
+
+img {
+    /* Add any specific styling for the image if needed */
+}
